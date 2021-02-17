@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+button:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+}
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.w {
+    width: 1412px;
+    margin: 0 auto;
+}
+
+.shortcut {
+    width: 1920px;
+    height: 57px;
+    line-height: 57px;
+    border-bottom: 1px solid #e2e2e2;
+    margin-bottom: 30px;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.shortcut li {
+    float: left;
+    height: 57px;
+}
+
+.shortcut ul {
+    height: 57px;
+}
+
+.spacer {
+    width: 50px;
+}
+
+.shortcut li {
+    font-size: 16px;
+    height: 57px;
+}
+
+.current {
+    color: #3ba8f0;
+}
+
+.shortcut ul img {
+    vertical-align: middle;
+}
+
+.newFeatrues {
+    margin-right: 60px;
+}
+
+.search {
+    margin-right: 82px;
+}
+
+#shortright li:hover {
+    transform: scale(1.3);
+}
+
+#shortright .newFeatrues {
+    margin-top: 20px;
+    width: 56px;
+    height: 20px;
+    background: url(../img/newFeatrues.png) no-repeat;
+}
+
+#shortright .search {
+    margin-top: 20px;
+    width: 56px;
+    height: 20px;
+    background: url(../img/search.png) no-repeat;
+}
+
+#shortright .teacherlogo {
+    margin-top: 15px;
+    width: 77px;
+    height: 34px;
+    background: url(../img/teacher.png) no-repeat;
+}
+
+.main {
+    width: 1920px;
+}
+
+.nav {
+    float: left;
+    width: 240px;
+    height: 975px;
+    border-right: 1px solid #e0e0e0;
+}
+
+.navTop {
+    font-size: 20px;
+    height: 32px;
+}
+
+.navTop .fl{
+    color: #a9a9a9;
+}
+
+.arrow-left {
+    width: 30px;
+    height: 30px;
+    margin-right: 14px;
+    background: url(../img/arrow-left.png) no-repeat;
+}
+
+.media {
+    width: 20px;
+    height: 20px;
+    margin: 5px 13px 0 0;
+    background: url(../img/media.png) no-repeat;
+}
+
+.navTop .fl:hover {
+    transform: scale(1.1);
+    color: skyblue;
+}
+
+.media:hover {
+    transform: scale(1.3);
+}
+
+.navContent {
+    margin-top: 58px;
+}
+
+.navContent li {
+    overflow: hidden;
+    width: 213px;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 27px;
+}
+
+.navContent ul li:nth-child(even):hover,
+.navContent ul li:nth-child(1):hover {
+    transform: scale(1.2) translate(40px, 0);
+}
+
+.navContent a {
+    font-size: 14px;
+    color: #333333;
+}
+
+.navContent img {
+    vertical-align: sub;
+    margin-right: 21px;
+}

@@ -1,0 +1,94 @@
+{
+  "adclass": [
+    {
+      "data": {
+        "school": "网龙学习平台",
+        "schoolState": "大学",
+        "grade": "一年级",
+        "class": "黑牛前端学堂",
+        "classKind": "行政班",
+        "exitPermission": "允许退出"
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "school": "清华大学",
+        "schoolState": "大学",
+        "grade": "四年级",
+        "class": "测控1701",
+        "classKind": "行政班",
+        "exitPermission": "允许退出"
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "school": "厦门大学",
+        "schoolState": "大学",
+        "grade": "四年级",
+        "class": "软件工程",
+        "classKind": "行政班",
+        "exitPermission": "禁止退出"
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "school": "⭐⭐⭐⭐⭐",
+        "schoolState": "高中",
+        "grade": "三年级",
+        "class": "星际大学",
+        "classKind": "行政班",
+        "exitPermission": "允许退出"
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "school": "忍者学院",
+        "schoolState": "初中",
+        "grade": "二年级",
+        "class": "第七班",
+        "classKind": "行政班",
+        "exitPermission": "禁止退出"
+      },
+      "id": 5
+    }
+  ],
+  "tcclass": [
+    {
+      "data": {
+        "school": "中南大学",
+        "schoolState": "大学",
+        "grade": "三年级",
+        "class": "测控1701",
+        "classKind": "教学班",
+        "exitPermission": "允许退出"
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "school": "",
+        "schoolState": "高中",
+        "grade": "三年级",
+        "class": "前端学习班",
+        "classKind": "教学班",
+        "exitPermission": "经管理员审核后退出"
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "school": "🐱🐀",
+        "schoolState": "小学",
+        "grade": "二年级",
+        "class": "猫和老鼠",
+        "classKind": "教学班",
+        "exitPermission": "经管理员审核后退出"
+      },
+      "id": 3
+    }
+  ]
+}
